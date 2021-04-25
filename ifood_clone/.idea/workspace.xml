@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e36b1ab-84c3-4c44-b1cf-b7911d100727" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/app.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/theme/app_colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/theme/app_icons.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/theme/app_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/theme/app_typography.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/views/content/components/header_local_component.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/views/content/content_page.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +35,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Win\Documentos\Dudu\projetos\FlutterProjects\ifood-clone\ifood_clone\lib\views\content" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,22 +60,33 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="761" height="279" key="GridCell.Tab.0.bottom" timestamp="1619125704185">
+    <state x="1342" y="116" width="973" height="840" key="AVDManager" timestamp="1619363629680">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="761" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1619125704185" />
-    <state width="761" height="279" key="GridCell.Tab.0.center" timestamp="1619125704185">
+    <state x="1342" y="116" width="973" height="840" key="AVDManager/0.0.2560.1040@0.0.2560.1040" timestamp="1619363629680" />
+    <state width="948" height="281" key="GridCell.Tab.0.bottom" timestamp="1619365277907">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="761" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1619125704185" />
-    <state width="761" height="279" key="GridCell.Tab.0.left" timestamp="1619125704185">
+    <state width="948" height="281" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1619365277907" />
+    <state width="948" height="281" key="GridCell.Tab.0.center" timestamp="1619365277907">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="761" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1619125704185" />
-    <state width="761" height="279" key="GridCell.Tab.0.right" timestamp="1619125704185">
+    <state width="948" height="281" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1619365277907" />
+    <state width="948" height="281" key="GridCell.Tab.0.left" timestamp="1619365277906">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="761" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1619125704185" />
+    <state width="948" height="281" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1619365277906" />
+    <state width="948" height="281" key="GridCell.Tab.0.right" timestamp="1619365277907">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="948" height="281" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1619365277907" />
+    <state x="1522" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1619364861748">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1522" y="229" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1619364861748" />
   </component>
 </project>
